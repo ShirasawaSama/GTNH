@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T10:39:12.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="mttLcWb7IagkspMwXJ6y" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T10:45:33.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="kngfspHRi9Mup88kDWOo" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1068" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -219,6 +219,9 @@
         <mxCell id="JoYVowdMrAnlJrP38-PI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JoYVowdMrAnlJrP38-PI-52" target="JoYVowdMrAnlJrP38-PI-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JoYVowdMrAnlJrP38-PI-52" target="JoYVowdMrAnlJrP38-PI-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JoYVowdMrAnlJrP38-PI-52" value="9 间苯二甲酸二本脂单元" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="255" width="140" height="20" as="geometry" />
         </mxCell>
@@ -293,6 +296,9 @@
         <mxCell id="JoYVowdMrAnlJrP38-PI-70" value="1 稀硫酸" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="371.5" y="440" width="77" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JoYVowdMrAnlJrP38-PI-72" target="JoYVowdMrAnlJrP38-PI-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JoYVowdMrAnlJrP38-PI-72" value="9 3,3&#39;-二氯联苯胺" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="490" width="100" height="20" as="geometry" />
         </mxCell>
@@ -311,6 +317,49 @@
         </mxCell>
         <mxCell id="JoYVowdMrAnlJrP38-PI-73" value="1 铜粉" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="368.5" y="530" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JoYVowdMrAnlJrP38-PI-85" target="JoYVowdMrAnlJrP38-PI-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JoYVowdMrAnlJrP38-PI-85" target="JoYVowdMrAnlJrP38-PI-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="500" />
+              <mxPoint x="1000" y="378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-85" value="9 3,3&#39;-二氨基联苯胺单元" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="490" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JoYVowdMrAnlJrP38-PI-89" target="JoYVowdMrAnlJrP38-PI-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-89" value="9 锌粉" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="520" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JoYVowdMrAnlJrP38-PI-91" target="JoYVowdMrAnlJrP38-PI-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-93" value="IV" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JoYVowdMrAnlJrP38-PI-92">
+          <mxGeometry x="0.6538" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-91" value="18 氨单元" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="580" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-94" value="18 氢氯酸" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="831.5" y="440" width="77" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JoYVowdMrAnlJrP38-PI-100" target="JoYVowdMrAnlJrP38-PI-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-100" value="9 聚苯并咪唑" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="365" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JoYVowdMrAnlJrP38-PI-103" value="9 苯酚" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1045" y="330" width="90" height="17.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
